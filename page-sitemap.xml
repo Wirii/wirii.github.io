@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://wirii.github.io/</loc>
-		<lastmod>2020-07-10T15:58:34+00:00</lastmod>
+		<lastmod>2020-07-10T16:53:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://wirii.github.io/wp-content/uploads/2020/07/spongerocket-768x190.png</image:loc>
 			<image:caption><![CDATA[spongerocket logo]]></image:caption>
@@ -22,7 +22,7 @@
 	</url>
 	<url>
 		<loc>https://wirii.github.io/spongerocket/</loc>
-		<lastmod>2020-07-09T20:55:03+00:00</lastmod>
+		<lastmod>2020-07-10T17:00:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://wirii.github.io/wp-content/uploads/2020/07/discovery-space-shuttle-rollout-launch-pad-879410-768x622.jpg</image:loc>
 			<image:caption><![CDATA[discovery space shuttle, rollout, launch pad]]></image:caption>
