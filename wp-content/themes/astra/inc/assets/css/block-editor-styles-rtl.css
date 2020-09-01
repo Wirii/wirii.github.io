@@ -62,7 +62,7 @@ html {font-size: 93.75%;}
 .edit-post-visual-editor .ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;left: 0;padding: 0 1em;border-radius: 0;}
 .edit-post-visual-editor .ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon .search-form {padding: 0;display: block;overflow: hidden;}
 .edit-post-visual-editor .site .skip-link {background-color: #f1f1f1;box-shadow: 0 0 1px 1px rgba(0,0,0,.2);color: #21759b;display: block;font-family: Montserrat,"Helvetica Neue",sans-serif;font-size: 14px;font-weight: 700;right: -9999em;outline: none;padding: 15px 23px 14px;text-decoration: none;text-transform: none;top: -9999em;}
-.edit-post-visual-editor .site .skip-link:focus {clip: auto;height: auto;right: 6px;top: 7px;width: auto;z-index: 100000;}
+.edit-post-visual-editor .site .skip-link:focus {clip: auto;height: auto;right: 6px;top: 7px;width: auto;z-index: 100000;outline: thin dotted;}
 .logged-in .edit-post-visual-editor .site .skip-link {box-shadow: 0 0 2px 2px rgba(0,0,0,.2);font-family: "Open Sans",sans-serif;}
 .edit-post-visual-editor .astra-icon-down_arrow::after {content: "";font-family: Astra;}
 .edit-post-visual-editor .astra-icon-close::after {content: "";font-family: Astra;}
