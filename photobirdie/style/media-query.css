@@ -1,0 +1,78 @@
+/* -----------------
+    media query
+------------------ */
+
+@media all and (max-width: 1200px) {
+    /* gut */
+}
+
+@media all and (max-width: 991px) {
+    /* gut */
+}
+
+@media all and (max-width: 768px) {
+    .heading-div {
+        flex-direction: column;
+    }
+
+    .nav-menu {
+        margin-bottom: 30px;
+    }
+
+    .nav-menu a {
+        font-size: 18px;
+        padding: 5px;
+        margin: 0 10px;
+    }
+
+    .my-images {
+        flex-direction: column;
+    }
+
+    .image {
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .portfolio-items img {
+        width: 47%;
+    }
+
+    .blog-text img {
+        float: none;
+        padding: 0;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    form input, form textarea {
+        width: 95%;
+    }
+
+    
+}
+
+@media all and (max-width: 480px) {
+    .nav-menu {
+        display: flex;
+        width: 100vw;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .nav-menu a {
+        font-size: 24px;
+        margin: 20px;
+    }
+
+    .hamburger-menu {
+        display: inline;
+    }
+}
+
+@media all and (max-width: 320px) {
+    /* gut */
+}
