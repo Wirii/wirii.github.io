@@ -240,11 +240,6 @@
 		});
 	}
 
-
-	$(window).load(function(){
-		// $( 'body' ).trigger( 'update_checkout' );
-	});
-
 	var wcf_checkout_coupons = {
 
 		init: function() {
